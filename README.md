@@ -1,0 +1,2 @@
+alfred-clipboard-pipes-oneliners
+================================
