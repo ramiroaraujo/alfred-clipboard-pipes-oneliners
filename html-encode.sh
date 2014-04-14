@@ -1,0 +1,1 @@
+php -r "echo htmlentities(file_get_contents('php://stdin'), ENT_COMPAT | ENT_HTML401, 'UTF-8');"

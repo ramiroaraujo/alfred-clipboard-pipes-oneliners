@@ -1,0 +1,2 @@
+perl -nle 'print uc'
+
